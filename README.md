@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Émilien FIEU (@Tructruc)
-- 👀 I’m interested in developpement, 3d printing and sport climbing
-- 🌱 I’m currently learning java, SQL an much more
+- 👀 I’m interested in developpement, 3d printing and inline skating
+- 🌱 I like to code in Java, C#, Python, VueJs and much more
 - 💞️ I’m looking to collaborate on anything you would help me
-- 📚 I'm currently in a BUT Informatique in Blagnac, France
+- 📚 I'm currently in ENSEEIHT studying for my engineering degree in computer science and networking
